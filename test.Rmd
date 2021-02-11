@@ -1,8 +1,7 @@
 ---
 title: "Test_EDA"
 output:
-  github_document:
-    pandoc_args: --webtex
+  github_document
 ---
 
 ```{r setup, include=FALSE}
@@ -37,4 +36,12 @@ plot(time, Ht, type = 'l', ylab = 'H(t)', main = 'Cumlative Hazard Function')
 ```
 
 ## math
-
+with some more inline Latex $\gamma$, $\lambda$, $\theta$
+   
+$$
+sum_{ i=1 }^{ n }i^{ 2 }=n(n+1)(2n+1)/6=\frac { n(n+1)(2n+1) }{ 6 } 
+$$
+      
+$$
+\prod { i^{ 4 } } =\int _{ 0 }^{ 1 } f
+$$

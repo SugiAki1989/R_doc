@@ -31,3 +31,11 @@ plot(time, Ht, type = 'l', ylab = 'H(t)', main = 'Cumlative Hazard Function')
 ![](test_files/figure-gfm/cars-1.png)<!-- -->
 
 ## math
+
+with some more inline Latex *γ*, *λ*, *θ*
+
+$$
+sum\_{ i=1 }^{ n }i^{ 2 }=n(n+1)(2n+1)/6=\\frac { n(n+1)(2n+1) }{ 6 } 
+$$
+
+∏*i*<sup>4</sup> = ∫<sub>0</sub><sup>1</sup>*f*
