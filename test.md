@@ -1,17 +1,9 @@
----
-title: "Test_EDA"
-output:
-  github_document:
-    pandoc_args: --webtex
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+Test\_EDA
+================
 
 ## R Markdown
 
-```{r cars}
+``` r
 op <- par(mfrow=c(2,3))
 time <- 1:500
 
@@ -36,5 +28,6 @@ Ht <- -1*log(St)
 plot(time, Ht, type = 'l', ylab = 'H(t)', main = 'Cumlative Hazard Function')
 ```
 
-## math
+![](test_files/figure-gfm/cars-1.png)<!-- -->
 
+## math
