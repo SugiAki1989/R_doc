@@ -1,5 +1,3 @@
-Test\_EDA
-================
 
 ## R Markdown
 
@@ -32,10 +30,13 @@ plot(time, Ht, type = 'l', ylab = 'H(t)', main = 'Cumlative Hazard Function')
 
 ## math
 
-with some more inline Latex *γ*, *λ*, *θ*
+with some more inline Latex
+![\\gamma](https://latex.codecogs.com/png.latex?%5Cgamma "\gamma"),
+![\\lambda](https://latex.codecogs.com/png.latex?%5Clambda "\lambda"),
+![\\theta](https://latex.codecogs.com/png.latex?%5Ctheta "\theta").
 
-$$
-sum\_{ i=1 }^{ n }i^{ 2 }=n(n+1)(2n+1)/6=\\frac { n(n+1)(2n+1) }{ 6 } 
-$$
-
-∏*i*<sup>4</sup> = ∫<sub>0</sub><sup>1</sup>*f*
+![
+E = mc^2
+](https://latex.codecogs.com/png.latex?%0AE%20%3D%20mc%5E2%0A "
+E = mc^2
+")
