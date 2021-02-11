@@ -39,5 +39,7 @@ plot(time, Ht, type = 'l', ylab = 'H(t)', main = 'Cumlative Hazard Function')
 with some more inline Latex $\gamma$, $\lambda$, $\theta$.
    
 $$
-\gcd(a, b) = \gcd(b, a \bmod b)
+  \frac{\partial f}{\partial y},
+  \frac{\partial^2 f}{\partial^2 y},
+  \frac{\partial}{\partial x} \left(\frac{\partial z}{\partial y}\right)
 $$

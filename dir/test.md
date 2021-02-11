@@ -36,7 +36,11 @@ with some more inline Latex
 ![\\theta](https://latex.codecogs.com/png.latex?%5Ctheta "\theta").
 
 ![
-\\gcd(a, b) = \\gcd(b, a \\bmod b)
-](https://latex.codecogs.com/png.latex?%0A%5Cgcd%28a%2C%20b%29%20%3D%20%5Cgcd%28b%2C%20a%20%5Cbmod%20b%29%0A "
-\gcd(a, b) = \gcd(b, a \bmod b)
+  \\frac{\\partial f}{\\partial y},
+  \\frac{\\partial^2 f}{\\partial^2 y},
+  \\frac{\\partial}{\\partial x} \\left(\\frac{\\partial z}{\\partial y}\\right)
+](https://latex.codecogs.com/png.latex?%0A%20%20%5Cfrac%7B%5Cpartial%20f%7D%7B%5Cpartial%20y%7D%2C%0A%20%20%5Cfrac%7B%5Cpartial%5E2%20f%7D%7B%5Cpartial%5E2%20y%7D%2C%0A%20%20%5Cfrac%7B%5Cpartial%7D%7B%5Cpartial%20x%7D%20%5Cleft%28%5Cfrac%7B%5Cpartial%20z%7D%7B%5Cpartial%20y%7D%5Cright%29%0A "
+  \frac{\partial f}{\partial y},
+  \frac{\partial^2 f}{\partial^2 y},
+  \frac{\partial}{\partial x} \left(\frac{\partial z}{\partial y}\right)
 ")
