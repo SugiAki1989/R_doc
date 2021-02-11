@@ -1,3 +1,0 @@
-# R_doc
-
-Test
