@@ -39,5 +39,5 @@ plot(time, Ht, type = 'l', ylab = 'H(t)', main = 'Cumlative Hazard Function')
 with some more inline Latex $\gamma$, $\lambda$, $\theta$.
    
 $$
-E = mc^2
+sum_{ i=1 }^{ n }i^{ 2 }=n(n+1)(2n+1)/6=\frac { n(n+1)(2n+1) }{ 6 } 
 $$

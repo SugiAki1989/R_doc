@@ -36,7 +36,7 @@ with some more inline Latex
 ![\\theta](https://latex.codecogs.com/png.latex?%5Ctheta "\theta").
 
 ![
-E = mc^2
-](https://latex.codecogs.com/png.latex?%0AE%20%3D%20mc%5E2%0A "
-E = mc^2
+sum\_{ i=1 }^{ n }i^{ 2 }=n(n+1)(2n+1)/6=\\frac { n(n+1)(2n+1) }{ 6 } 
+](https://latex.codecogs.com/png.latex?%0Asum_%7B%20i%3D1%20%7D%5E%7B%20n%20%7Di%5E%7B%202%20%7D%3Dn%28n%2B1%29%282n%2B1%29%2F6%3D%5Cfrac%20%7B%20n%28n%2B1%29%282n%2B1%29%20%7D%7B%206%20%7D%20%0A "
+sum_{ i=1 }^{ n }i^{ 2 }=n(n+1)(2n+1)/6=\frac { n(n+1)(2n+1) }{ 6 } 
 ")
