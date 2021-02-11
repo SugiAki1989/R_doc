@@ -35,3 +35,11 @@ prevent printing of the R code that generated the plot.
 $$
 e^{iax}+cos(ax)+isin(ax) \\tag{1}
 $$
+
+This math is inline $\`a^2+b^2=c^2\`$.
+
+This is on a separate line
+
+``` math
+a^2+b^2=c^2
+```
