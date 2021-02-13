@@ -1,23 +1,23 @@
 # R_doc
 
-Add: update-branch2
+- main: git clone repo name
+- main: git branch
 
+- branch: git branch _branch name_
+- branch: git checkout _branch name_
 
-- <main>git clone <repo name>
-- <main>git branch
+- branch: write code
 
-- <branch>git branch <branch name>
-- <branch>git checkout <branch name>
-- <branch>write code
-- <branch>git add <code>
-- <branch>git commit -m 'comment'
-- <branch>git pull origin main
-- <branch>git push origin <branch name>
-- <github>pull request on github
-- <github>merge on github
+- branch: git add code
+- branch: git commit -m 'comment'
+- branch: git pull origin _main_
+- branch: git push origin _branch name_
 
-- <main>git checkout main
-- <main>git pull origin main
+- github: pull request on github
+- github: merge on github
+
+- main: git checkout _main_
+- main: git pull origin _main_
 
 
 
